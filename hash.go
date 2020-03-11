@@ -4,8 +4,8 @@ import (
 	"math/big"
 
 	"github.com/bitbandi/go-x11"
+	"github.com/p9c/fork"
 	log "github.com/p9c/logi"
-	"github.com/p9c/pod/pkg/chain/fork"
 
 	skein "github.com/enceve/crypto/skein/skein256"
 	gost "github.com/programmer10110/gostreebog"
